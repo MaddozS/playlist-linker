@@ -131,3 +131,6 @@ dmypy.json
 # Config files and credentials
 *.cfg
 client_secrets.json
+
+# Weird files lol
+.cache-*
