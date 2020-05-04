@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Config files
+# Config files and credentials
 *.cfg
+client_secrets.json
